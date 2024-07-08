@@ -1,5 +1,7 @@
 # necklace
 ### a wearable device that helps you stay connected with long-distance friends and loved ones. Simply press the button to record and share audio messages, making conversations feel close and personal, no matter the distance.
+![IMG_9990_2](https://github.com/AugmentHub/necklace/assets/49680322/edebbac1-8299-47de-a726-bc800996879c)
+
 ![ımage generatıon](https://github.com/AugmentHub/necklace/assets/49680322/f3462081-7d79-459b-941a-1d145ea1fab6)
 
 ![Untitled-1](https://github.com/AugmentHub/necklace/assets/49680322/17e47b80-46a5-4ce3-95b5-4286fd6d9f10)
